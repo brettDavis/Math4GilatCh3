@@ -1,4 +1,4 @@
-%% CHAPTER 3 PROBLEMS
+%% CHAPTER 3 PROBLEMS: Mathmatical Operations with Arrays
 %
 % Brett Davis
 % Chapter 3 Problems
